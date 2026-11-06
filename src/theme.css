@@ -1,0 +1,19 @@
+/* Bidnora theme */
+:root {
+  --pp-accent: #4338ca;
+  --pp-accent-hover: #3730a3;
+  --pp-accent2: #ffcf5c;
+  --pp-ink: #17152e;
+  --pp-muted: #545170;
+  --pp-paper: #f6f5fb;
+  --pp-tint: #ebe9f6;
+  --pp-card: #ffffff;
+  --pp-line: #dcd9ec;
+  --pp-dark: #1b1847;
+  --pp-dark-ink: #f1f0fb;
+  --pp-serif: 'Newsreader', Georgia, serif;
+  --pp-sans: 'IBM Plex Sans', system-ui, sans-serif;
+  --pp-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --pp-display-weight: 500;
+}
+
